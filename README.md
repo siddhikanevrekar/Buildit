@@ -14,19 +14,19 @@ Tell the developers who build the products you love for the features you want to
 
 
 
-## FAQ
+## [FAQ]
 
 
 
-## Submit an issue with Buildit
+## [Submit an issue with Buildit]
 
 
 
-## Examples
+## [Examples]
 
 
 
-## About Us
+## [About Us]
 
 
 
